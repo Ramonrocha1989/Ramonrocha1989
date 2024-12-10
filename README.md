@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estudando Python e IAs
 
 <a href="https://github.com/Ramonrocha1989/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ramonrocha1989&show_icons=true&theme=dracula" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=Ramonrocha1989&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/Ramonrocha1989/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramonrocha1989&layout=compact&theme=dracula" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramonrocha1989&layout=compact&theme=dracula" />
 </a>
 <!--Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)-->
