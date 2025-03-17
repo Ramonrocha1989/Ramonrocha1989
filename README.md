@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estudando Python e IAs
 
 <a href="https://github.com/Ramonrocha1989/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Ramonrocha1989&show_icons=true&theme=dracula" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Ramonrocha1989&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=10" />
 </a>
 <a href="https://github.com/Ramonrocha1989/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramonrocha1989&layout=compact&theme=dracula" />
