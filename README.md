@@ -11,9 +11,7 @@ Especialista em desenvolvimento de APIs, sistemas backend e agentes de IA utiliz
 
 <div align="left">
 
-<table>
-<tr>
-<td valign="top" align="left">
+<img align="right" height="1" width="120"/>
 
 - Node.js  
 - Python  
@@ -25,11 +23,7 @@ Especialista em desenvolvimento de APIs, sistemas backend e agentes de IA utiliz
 - CrewAI  
 - Azure AI Foundry  
 
-</td>
-
-<td width="80"></td>
-
-<td valign="top" align="left">
+<br>
 
 - APIs do WhatsApp  
 - Twilio  
@@ -40,10 +34,6 @@ Especialista em desenvolvimento de APIs, sistemas backend e agentes de IA utiliz
 - Automação de Processos  
 - Chatbots Inteligentes  
 - Git & GitFlow  
-
-</td>
-</tr>
-</table>
 
 </div>
 
