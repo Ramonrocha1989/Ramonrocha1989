@@ -50,6 +50,12 @@ Especialista em desenvolvimento de APIs, sistemas backend e agentes de IA utiliz
 
 ---
 
+## 📈 Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramonrocha1989&theme=tokyo-night&hide_border=true" />
+</p>
+
 ## 📊 GitHub Stats
 
 <div align="center">
