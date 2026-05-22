@@ -9,9 +9,11 @@ Especialista em desenvolvimento de APIs, sistemas backend e agentes de IA utiliz
 
 ## 🚀 Tecnologias e Especialidades
 
-<table align="center">
+<div align="left">
+
+<table>
 <tr>
-<td valign="top">
+<td valign="top" align="left">
 
 - Node.js  
 - Python  
@@ -25,7 +27,9 @@ Especialista em desenvolvimento de APIs, sistemas backend e agentes de IA utiliz
 
 </td>
 
-<td valign="top">
+<td width="80"></td>
+
+<td valign="top" align="left">
 
 - APIs do WhatsApp  
 - Twilio  
@@ -40,6 +44,8 @@ Especialista em desenvolvimento de APIs, sistemas backend e agentes de IA utiliz
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
