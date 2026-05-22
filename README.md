@@ -30,7 +30,7 @@ Especialista em desenvolvimento de APIs, sistemas backend e agentes de IA utiliz
 
 ---
 
-## 📌 Atualmente
+## 📌  Atualmente
 
 - Desenvolvendo soluções com IA generativa
 - Criando agentes autônomos e fluxos conversacionais
