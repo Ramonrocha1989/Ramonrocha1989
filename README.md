@@ -52,17 +52,21 @@ Especialista em desenvolvimento de APIs, sistemas backend e agentes de IA utiliz
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramonrocha1989&theme=tokyonight" 
-  />
+<div align="center">
 
-  <img 
-    height="180em" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramonrocha1989&theme=tokyonight" 
-  />
-</p>
+<table>
+<tr>
+<td align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramonrocha1989&theme=tokyonight" />
+</td>
+
+<td align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramonrocha1989&theme=tokyonight" />
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
