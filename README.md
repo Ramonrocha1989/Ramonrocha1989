@@ -9,37 +9,40 @@ Especialista em desenvolvimento de APIs, sistemas backend e agentes de IA utiliz
 
 ## 🚀 Tecnologias e Especialidades
 
-<div align="left" style="display: flex; gap: 80px;">
+<table border="0">
+<tr border="0">
+<td valign="top" border="0">
 
-<div>
+- Node.js
+- Python
+- TypeScript
+- JavaScript
+- APIs REST
+- OpenAI / LLMs
+- LangChain
+- CrewAI
+- Azure AI Foundry
 
-- Node.js  
-- Python  
-- TypeScript  
-- JavaScript  
-- APIs REST  
-- OpenAI / LLMs  
-- LangChain  
-- CrewAI  
-- Azure AI Foundry  
+</td>
 
-</div>
+<td width="60" border="0"></td>
 
-<div>
+<td valign="top" border="0">
 
-- APIs do WhatsApp  
-- Twilio  
-- PostgreSQL  
-- MongoDB  
-- Docker  
-- Microsserviços  
-- Automação de Processos  
-- Chatbots Inteligentes  
-- Git & GitFlow  
+- APIs do WhatsApp
+- Twilio
+- PostgreSQL
+- MongoDB
+- Docker
+- Microsserviços
+- Automação de Processos
+- Chatbots Inteligentes
+- Git & GitFlow
 
-</div>
+</td>
+</tr>
+</table>
 
-</div>
 ---
 
 ## 📌 Atualmente
